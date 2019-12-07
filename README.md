@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://www.xbscloud.top/my-github-repos)
 * [这是一条测试博客文章](http://www.xbscloud.top/articles/2019/12/05/1575539657577.html)
 * [这是什么标题](http://www.xbscloud.top/articles/2019/12/05/1575535325214.html)
 * [世界，你好！](http://www.xbscloud.top/hello-solo)
